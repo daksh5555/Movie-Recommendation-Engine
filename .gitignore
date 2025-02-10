@@ -1,0 +1,10 @@
+# Ignore virtual environments
+tensor_matrix_zone/  
+.venv/  
+venv/  
+env/  
+
+# Ignore system files
+__pycache__/  
+*.pyc  
+.DS_Store  

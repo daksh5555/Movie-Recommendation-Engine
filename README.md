@@ -8,3 +8,6 @@ Rcommending Movies On Content Based Similarity
 
 # Site live at:
 https://movie-recommendation-engine-meerut05112000.streamlit.app/
+
+# Informative Note:
+"Site loading... Please wait a minute or two if it's been inactive. We're getting ready just for you!"
